@@ -8,6 +8,10 @@ This is an experimental tensorflow implementation of synthesizing images from ca
 
 Image Source : [Generative Adversarial Text-to-Image Synthesis][2] Paper
 
+## Things to read
+- https://towardsdatascience.com/text-to-image-a3b201b003ae
+- https://medium.com/datadriveninvestor/text-to-image-synthesis-6e5de1bf86ec
+
 ## Requirements
 - Python 2.7.6
 - [Tensorflow][4]
